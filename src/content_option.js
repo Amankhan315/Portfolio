@@ -10,7 +10,7 @@ const introdata = {
   animated: {
     first: "Coding is my Passion",
     second: "Programming is thinking not typing",
-    third: "its not a bug its an undocumented feature",
+    third: "It’s not a bug its an undocumented feature",
   },
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",

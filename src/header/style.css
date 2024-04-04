@@ -7,7 +7,19 @@
 .menu__button {
     color: var(--text-color);
 }
-
+.imgbox{
+    height: auto;
+    width: 100%;
+    
+    /* border: 2px solid white; */
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+    border-radius: 50px;
+    /* border: 2px solid white; */
+}
 .menu__button:focus,
 .menu__button:hover {
     color: var(--text-color);

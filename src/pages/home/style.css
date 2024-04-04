@@ -168,10 +168,14 @@ section {
 #button_p {
     background: var(--secondary-color);
     color: var(--primary-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
 }
 
 #button_h:hover {
-    color: var(--primary-color)
+    color: var(--primary-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
 }
 
 .intro_sec .h_bg-image .block {
@@ -231,4 +235,8 @@ section {
 
 .intro_sec .h_bg-image {
     filter: saturate(0.5);
+}
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
 }
