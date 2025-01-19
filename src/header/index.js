@@ -19,11 +19,7 @@ const Headermain = () => {
         <div className=" d-flex align-items-center justify-content-between">
           <Link className=" navbar-brand nav_ac" to="/">
             <div className="logo">
-              <img
-                className="imgbox "
-                src="https://mir-s3-cdn-cf.behance.net/user/276/5772221.53eb1c8b396c9.png"
-                alt=""
-              ></img>
+              <span>AK Developer</span>
             </div>
           </Link>
           <div className="d-flex align-items-center">
