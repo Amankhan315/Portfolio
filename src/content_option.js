@@ -94,29 +94,29 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTxrEtWromdYwl85UC4J-AGBrkm3MY6D79w&usqp=CAU",
-    description: "Tesla car Website",
-    link: "https://www.tesla.com/",
+    img: "https://ak-developer-tumie-website-clone.netlify.app/",
+    description: "tumie",
+    link: "https://ak-developer-tumie-website-clone.netlify.app/",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmg0z3LdlVtFd_LVMEU5Xw0hLSr2jA26DsLw&usqp=CAU",
+    img: "https://ak-developer-neosite.netlify.app/",
     description: "NEOREACH website",
     link: "https://neoreach.com/",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg13rTaHtZ0YIqD_Z8tihI8gArdrmgUOTTeA&usqp=CAU",
-    description: "Techno website",
-    link: "https://techno.dreamitsolution.net/",
+    img: "https://ak-developer-creative-projeact.netlify.app/",
+    description: "Creative website",
+    link: "https://ak-developer-creative-projeact.netlify.app/",
   },
   {
-    img: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/323129369/original/1dd8945467c54148b95cbcae9b6e3457f554ba0e/deliver-ekommart-shopify-theme-full-installation-and-customization.png",
-    description: "ELLA GYM website",
-    link: "https://github.com/Amankhan315/Ellagym",
+    img: "https://ak-developer-website-clone.netlify.app/",
+    description: "Helion website",
+    link: "https://ak-developer-website-clone.netlify.app/",
   },
   {
-    img: "https://halothemes.net/cdn/shop/products/ella-home-14-pc.jpg?v=1674746787",
+    img: "https://akdeveloper-ellagym.netlify.app/",
     description: "ELLA WHEEL website",
-    link: "https://new-ella-demo.myshopify.com/?fts=0",
+    link: "https://akdeveloper-ellagym.netlify.app/",
   },
 ];
 
